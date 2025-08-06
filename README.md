@@ -8,7 +8,7 @@ With the blessings of Sri Guru Granth Sahib Ji, my parents, my grandmother and b
 
 We did Japji Sahib Paath there, listened to the melodious kirtan by the Raagi Jatha, and payed attention to the teachings given by the Granthi Sahib. Then we had Langar and walked over to the auditorium where upon receiving our kits, sat separately with our respective branches. 
 
-Throguh the words of addressal by the Principal Sir, we came to know about the esteemed legacy of the college and how lucky we were to have joined during the ongoing Platinum Jubilee year. Then we were introduced to Ex. Prof Singh, whose words were filled with wisdome and the experience of a lifetime. He asked us to always keep in mind the name the college is based on  -  Sri Guru Nanak Dev Ji, and I will do so. 
+Through the words of addressal by the Principal Sir, we came to know about the esteemed legacy of the college and how lucky we were to have joined during the ongoing Platinum Jubilee year. Then we were introduced to Ex. Prof Singh, whose words were filled with wisdome and the experience of a lifetime. He asked us to always keep in mind the name the college is based on  -  Sri Guru Nanak Dev Ji, and I will do so. 
 
 Then came Mr. Maheshinder Singh, a renowned politician and lawyer who taught us the value of hardwork,determination and how we have an opportunity to design our lives. 
 
@@ -40,7 +40,7 @@ With the tests done, and the question paper in my hand, I walked out of the coll
 
 Today was an amazing and enlightening experience and I look forward for more such instances.
 
-# Day - 5
+# Day - 4
 ## 5 August, 2025
 The time-table for today's program was quite different and I had to recheck thrice to confirm that I was reading the correct one. We had our first class at 1:30 pm which was a P2P session again, with our senior Manan Sood. It was substantially different from the last one as instead of learning to code, we were given advice on how to make out the best of the upcoming semesters. Manan himself shared his mistakes and advised us to work in a focused and smart way, while taking part in clubs and various activites, managing studies and activities efficiently. He also took all of our queries and answered them. I came to know the college better today.
 
@@ -48,7 +48,7 @@ Next up we went to the auditorium and enjoyed an amazing lecture on _Motorsports
 
 The program continued with a session by Dr. Shaffy Makkar with her expert lecture on "Millets - A Super Food". I didn't even know I was cooking them the incorrect way. No wonder they couldn't appeal to my taste buds. She showed us the correct method to make them which I noted down to share with my mom. When she was listing and explaining the different types of millets and their respective benefits, _Kutki_ catched my eye since it is beneficial for women over 40 years of age going through menopause, which I intend to cook for my mother. The session was quite eye-opening for me and I cant wait to try millets now. 
 
-# Day - 6
+# Day - 5
 ## 6 August, 2025
 Today's program's commencement time was bit late than usual i.e. 9:30 instead of 8:30, so I used that extra time to work on this report.
 
