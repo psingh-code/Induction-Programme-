@@ -1,11 +1,17 @@
 # Induction-Programme-
 Parminder Singh 
+
 Father's Name - S. Amarjit Singh
+
 Electronics and Communication Engineering
+
 Reg. No. - 25101991
+
 Contact - 7901795663
+
 Email - parmindersinghkhalsa2007@gmail.com
 ![photo_2025-08-07_22-53-29](https://github.com/user-attachments/assets/4082a3b0-3679-4d41-a6e4-373b55eedd25)
+
 
 # Day - 1
 ## 30 July, 2025
