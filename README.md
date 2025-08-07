@@ -1,5 +1,12 @@
 # Induction-Programme-
-Parminder Singh (ECE) 25101991
+Parminder Singh 
+Father's Name - S. Amarjit Singh
+Electronics and Communication Engineering
+Reg. No. - 25101991
+Contact - 7901795663
+Email - parmindersinghkhalsa2007@gmail.com
+![photo_2025-08-07_22-53-29](https://github.com/user-attachments/assets/4082a3b0-3679-4d41-a6e4-373b55eedd25)
+
 # Day - 1
 ## 30 July, 2025
 The most awaited day had come! During these 2 months (June - July), there wasn't a corner of the college's website I hadn't visited. All the insta pages, club sites, everything I could find about my upcoming journey, I had devoured heartily. From getting tense during the admission process to preparing and packing up for the first day, I was ready. I woke up early in the morning, as a matter of habit, but today there was glitter of enthusiasm in my eyes. Waking up wasn't tiring, exciting I'd rather say. What to wear, which turban to tie, I had already decided the night before.
