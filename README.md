@@ -27,6 +27,7 @@ Through the words of addressal by the Principal Sir, we came to know about the e
 Then came Mr. Maheshinder Singh, a renowned politician and lawyer who taught us the value of hardwork,determination and how we have an opportunity to design our lives. 
 
 Our HOD Harpreet Mam's speech felt so warm, similar to how a mother guides her child. I immensely respect her from my heart. 
+
 <img width="320" height="307" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/23d70566-951f-4c92-a68c-8706ead93a54" />
 
 I was also approached by members of the FM Club for some questions which I glady answered.
@@ -93,3 +94,21 @@ Prof. Jaspreet Singh hosted our first physics lecture. He explained to us the cu
 We had our 3rd P2P lecture after Physics, where seniors continued teaching us C++, this time more advanced topics such as operators, looping and conditional statements. We created more complex codes than last time using all the new knowledge we had gained during today's lecture. Everything was crystal clear. The seniors asked us to prepare for the upcoming P2P exam and wished us all the best.
 
 This ended a hectic day, but my mind was not tired as I got to learn what I want to. Day by day, I move one step closer towards my dream.
+
+# Day - 6 :-  PHYSICS, MATHEMATICS INTRODUCTION, A GLIMPSE OF CML AND OVERVIEW OF NSS
+## 7 August, 2025
+Unlike the routine I was used to till now of going straight to the auditorium, the day started off with a Physics Lecture by Prof. Jaspreet Singh. We officially started the Semester 1 curriculum by covering basic topics like gradient and learning new operators like delta and laplace. Overall the lecture was really intriguing and I really didn't notice the time pass by. 
+
+We left for our first maths lecture of the term which was hosted by Prof. Sandeep Kaur Gill. She interacted with us, took our doubts and gave us a basic overview our syllabus and showed us the difference between high school and college level mathematics. She also asked a lot of questions which helped us recall earlier done topics. We would be proceeding with _Differential Equations_ once the classes officialy start. 
+
+Next we had a lecture in the auditorium by Dr. Lakhvir Singh Khana, incharge of CML. For me personally, this had to be the one of the most fun lectures I ever had. Lakhvir sir has such a fun and outgoing personality which made the lecture way more enjoyable. He explained what CML was, its purpose and how it is different from the rest of the clubs. After that, he taught us how we could study from professors from IITs' without paying a penny using SWAYAM-NPTEL portal, which everybody registered for there only. Even though the lecture extended far longer than the pre-determined time, I wasn't bored for even a second.
+
+The last lecture of the day was hosted by the NSS society of the college. They skipped on the presentations due to limited time, and rather showed us _practically_ what they do, by singing religius hymns in classiccal style. I was mesmerized by both the hymns and the overall environment of the auditorium at that point. The purpose of NSS - _to do something far greater than ourselves_, really appealed to me as a Sikh. I took a picture of the qr code linking to the joining form of the NSS as I plan to join it as soon as possible. They proceeded next with games, comedic skits and reel showcasing which were really entertaining and didn't let out attention wander away even for a second.
+
+# Day - 7 :- WORKSHOP WANDER
+#3 8 August, 2025
+Today was a rather short day, since we only had to come to the institute for 2 hours for visiting workshops. I was assigned the fitting worksop.
+
+![WhatsApp Image 2025-08-10 at 21 13 43_40777d5b](https://github.com/user-attachments/assets/67d5eafb-3ada-44ea-ad0f-17470603d546)
+
+The Sir in charge of the workshop taught us the basic purpose of the workshop, showcased and explained all the tools, machines and how we use them for various purposes. Then he informed us of the basic precautions to take while working there and asked us to buy uniforms for the same. He showed us how we had to create and maintain practical notebooks, and how the marking scheme in the workshop exams worked. After all this, he took our attendance and let us go. It was a really enjoyable and _new_ experience for me as I love workshops  in general and was waiting to visit one!
