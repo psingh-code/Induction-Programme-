@@ -22,7 +22,7 @@ With the blessings of Sri Guru Granth Sahib Ji, my parents, my grandmother and b
 
 We did Japji Sahib Paath there, listened to the melodious kirtan by the Raagi Jatha, and payed attention to the teachings given by the Granthi Sahib. Then we had Langar and walked over to the auditorium where upon receiving our kits, sat separately with our respective branches. 
 
-Through the words of addressal by the Principal Sir, we came to know about the esteemed legacy of the college and how lucky we were to have joined during the ongoing Platinum Jubilee year. Then we were introduced to Ex. Prof Singh, whose words were filled with wisdome and the experience of a lifetime. He asked us to always keep in mind the name the college is based on  -  Sri Guru Nanak Dev Ji, and I will do so. 
+Through the words of addressal by the Principal Sir, we came to know about the esteemed legacy of the college and how lucky we were to have joined during the ongoing Platinum Jubilee year. Then we were introduced to Ex. Prof Singh, whose words were filled with wisdom and the experience of a lifetime. He asked us to always keep in mind the name the college is based on  -  Sri Guru Nanak Dev Ji, and I will do so. 
 
 Then came Mr. Maheshinder Singh, a renowned politician and lawyer who taught us the value of hardwork,determination and how we have an opportunity to design our lives. 
 
@@ -106,9 +106,25 @@ Next we had a lecture in the auditorium by Dr. Lakhvir Singh Khana, incharge of 
 The last lecture of the day was hosted by the NSS society of the college. They skipped on the presentations due to limited time, and rather showed us _practically_ what they do, by singing religius hymns in classiccal style. I was mesmerized by both the hymns and the overall environment of the auditorium at that point. The purpose of NSS - _to do something far greater than ourselves_, really appealed to me as a Sikh. I took a picture of the qr code linking to the joining form of the NSS as I plan to join it as soon as possible. They proceeded next with games, comedic skits and reel showcasing which were really entertaining and didn't let out attention wander away even for a second.
 
 # Day - 7 :- WORKSHOP WANDER
-#3 8 August, 2025
+## 8 August, 2025
 Today was a rather short day, since we only had to come to the institute for 2 hours for visiting workshops. I was assigned the fitting worksop.
 
 ![WhatsApp Image 2025-08-10 at 21 13 43_40777d5b](https://github.com/user-attachments/assets/67d5eafb-3ada-44ea-ad0f-17470603d546)
 
 The Sir in charge of the workshop taught us the basic purpose of the workshop, showcased and explained all the tools, machines and how we use them for various purposes. Then he informed us of the basic precautions to take while working there and asked us to buy uniforms for the same. He showed us how we had to create and maintain practical notebooks, and how the marking scheme in the workshop exams worked. After all this, he took our attendance and let us go. It was a really enjoyable and _new_ experience for me as I love workshops  in general and was waiting to visit one!
+
+# Day - 8 :-
+## 11 August, 2025
+Finally regular classes have begun. But our seniors informed us that the induction has not program ended yet and will continue till 30 August approximately. So I guess I'll have to keep writing the report till then, not that I am complaining. I do like putting my thoughts and experience out somewhere for someone else to read.
+
+The first lecture was supposed to be of mathematics, but was shifted and changed into a P2P class. The seniors taught us the basics of designing on Canva and gave us a task to create a flyer for Athletic Meet. As I didn't bring my laptop, I made it on my phone. Here's what it looks like ->
+
+![WhatsApp Image 2025-08-11 at 09 36 00_b95ed020](https://github.com/user-attachments/assets/34be8f2e-f61d-4f54-951f-fd43cd509331)
+
+Next we had our Physics lecture by Randhir Sir. He kick started our syllabus witH  _LASER_ chapter. He taught us the full form of the word LASER, its definition and how it is different from ordinary light. It was an engaging lecture, and sir's relatable jokes kept it entertaining as well.
+
+After it, we had our first Engineering Drawing and Graphics lecture in the room S-203, where Gulraj Sir started with introductions by everybody, then stressed on the importance of drawing in engineering. Since we did not have any of the required equipment, he gave us a list of what to buy and proceeded with teaching Technical Writing.
+
+We also had workshops assigned to us in the time table. So once the break ended, I went straight to Fitting Workshop, where we did a whole lot of work today. First, we identified and picked a material, measured it up, marked scratches at 50mm, fixed it up in the vice and kept on grinding the axe. Since I had no partner, it was tiring for me , but I stil enjoyed it. After that, all of us took our cut pieces, took filers then again went to grinding on and on to remove every trace of rust and make it stand upright on one of its thinner side which was a very HARD task. I barely managed to do it, but still it wasn't perfect. By the time I completed, 2 hours had passed, so we returned all the tools and went home.
+
+
