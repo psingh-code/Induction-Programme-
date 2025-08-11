@@ -113,7 +113,7 @@ Today was a rather short day, since we only had to come to the institute for 2 h
 
 The Sir in charge of the workshop taught us the basic purpose of the workshop, showcased and explained all the tools, machines and how we use them for various purposes. Then he informed us of the basic precautions to take while working there and asked us to buy uniforms for the same. He showed us how we had to create and maintain practical notebooks, and how the marking scheme in the workshop exams worked. After all this, he took our attendance and let us go. It was a really enjoyable and _new_ experience for me as I love workshops  in general and was waiting to visit one!
 
-# Day - 8 :-
+# Day - 8 :- CANVA BASICS, LASER, ENG. DRAWING AND WORKING IN THE WORKSHOP
 ## 11 August, 2025
 Finally regular classes have begun. But our seniors informed us that the induction has not program ended yet and will continue till 30 August approximately. So I guess I'll have to keep writing the report till then, not that I am complaining. I do like putting my thoughts and experience out somewhere for someone else to read.
 
