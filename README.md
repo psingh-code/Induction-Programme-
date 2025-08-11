@@ -45,7 +45,7 @@ Mrs. Priyadarshini ( a PhD holder in ECE) hosted the first session. She made me 
 <img width="280" height="251" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/73ab3756-8f92-4443-8b27-4e861ed1effd" />
 
 
-Then came Mr. Arvind Dhingra, who literally woke up all of us again with his energetic and relatable way of talking. The ice-breaker exercise helped me make a new friend. The whole session was amazing and we all wished it to be longer. 
+Then came Mr. Arvind Dhingra, who literally woke up all of us again with his energetic and relatable way of talking. The ice-breaker exercise helped me make a new friend.He proceeded with basic overview of all the societies and student chapters present and working in the college. He encouraged everybody to join atleast two for complete and holistic development. The whole session was amazing and we all wished it to be longer. 
 
 The English Proficiency Test went by like a breeze, while the maths one scratched some desolate corners of my brain which made me ponder on my weak memory. Although I did solve most of the questions, some proved to be rather tricky, involving formulas we had already used in the past, but failed to recall at the moment. 
 
