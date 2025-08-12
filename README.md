@@ -1,4 +1,4 @@
-<img width="1545" height="2000" alt="CAUSMIC CLUB" src="https://github.com/user-attachments/assets/4be207da-1468-47f2-84cb-dd266ce9af3b" /># Induction-Programme-
+# Induction-Programme-
 Parminder Singh 
 
 Father's Name - S. Amarjit Singh
