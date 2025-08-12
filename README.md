@@ -20,7 +20,7 @@ The most awaited day had come! During these 2 months (June - July), there wasn't
 With the blessings of Sri Guru Granth Sahib Ji, my parents, my grandmother and best wishes from my friends and sibling, I left my home, boarded an auto and reached the front gate of the college in under 5 mins. Well I live just around a km away from the institute so travel was a breeze for me. I met my school friend there and headed inside. Upon reaching the Gurudwara Sahib we both were in awe at what we saw. The Gurudwara Sahib's shape was peculiar, which we later came to know was designed like a SHIP. This is to illustrate the line " Guru Nanak Naam Jahaz Hai, Chadai So Utre Paar". 
 ![photo_2025-08-07_22-53-23](https://github.com/user-attachments/assets/e1d32c9b-ca0b-46fb-8684-f6cab821fbde)
 
-We did Japji Sahib Paath there, listened to the melodious kirtan by the Raagi Jatha, and payed attention to the teachings given by the Granthi Sahib. Then we had Langar and walked over to the auditorium where upon receiving our kits, sat separately with our respective branches. 
+We did Japji Sahib Paath there, listened to the melodious and soulful kirtan by the Raagi Jatha, and payed attention to the teachings given by the Granthi Sahib. Then we had Langar and walked over to the auditorium where upon receiving our kits, sat separately with our respective branches. 
 
 Through the words of addressal by the Principal Sir, we came to know about the esteemed legacy of the college and how lucky we were to have joined during the ongoing Platinum Jubilee year. Then we were introduced to Ex. Prof Singh, whose words were filled with wisdom and the experience of a lifetime. He asked us to always keep in mind the name the college is based on  -  Sri Guru Nanak Dev Ji, and I will do so. 
 
@@ -126,5 +126,24 @@ Next we had our Physics lecture by Randhir Sir. He kick started our syllabus wit
 After it, we had our first Engineering Drawing and Graphics lecture in the room S-203, where Gulraj Sir started with introductions by everybody, then stressed on the importance of drawing in engineering. Since we did not have any of the required equipment, he gave us a list of what to buy and proceeded with teaching Technical Writing.
 
 We also had workshops assigned to us in the time table. So once the break ended, I went straight to the Fitting Workshop, where we did a whole lot of work today. First, we identified and picked a material, measured it up, marked scratches at 50mm, fixed it up in the vice and kept on grinding the axe. Since I had no partner, it was tiring for me , but I stil enjoyed it. After that, all of us took our cut pieces, took filers then again went to grinding on and on to remove every trace of rust and make it stand upright on one of its thinner side which was a very HARD task. I barely managed to do it, but still it wasn't perfect. By the time I completed, 2 hours had passed, so we returned all the tools and went home.
+
+# Day - 9 :-
+## 12 August, 2025
+Today was quite a rainy day. I reached the college during the heaviest downpour of the day.
+
+![WhatsApp Image 2025-08-12 at 10 23 28_c2a983f5](https://github.com/user-attachments/assets/09865c8d-523d-412b-b4f7-ee83b38483fe)
+
+Although we had an Economics Lecture, scheduled in the time table, we were informed a night before that we had to reach TCC Seminar Hall to get our ID cards prepared. There my photo was clicked and signature taken. Mrs. Sanjam Kaur took our attendance there only. 
+
+After that, I went straight to Physics Lab for the second lecture.
+
+![WhatsApp Image 2025-08-12 at 10 23 28_48f8db3c](https://github.com/user-attachments/assets/873e5523-24d0-49e7-9f1d-69956ac7569f)
+
+Randhir Sir taught us the concept of angle of divergence, how lasers are _generally_ non-ideal i.e. _not all rays are parallel, they scatter by a small angle too which is noticeable usually when the screen is placed more than 1m away from the source_. We did the experiment ourselves by forming different groups. I measured the distance between the screen and the source, drew the tangents and measured the sides of the rectangle formed. We then worked on the calculations and got a correct answer too. 
+
+![WhatsApp Image 2025-08-12 at 10 27 06_31af147c](https://github.com/user-attachments/assets/6f953717-f734-4704-84ea-f4bb568d767a)
+
+We had our first PPS (Programming for Problem Solving) lecture in the Computational Lab of ECE department. Mrs. Maninder Kaur welcomed us, asked us our names, and gave us a rundown of what we had to study in this subject. We started with basic components of computer system. We were introduced to different units of a computer system, various input-output devices and their functions. Personally, it was a recap for me of what I know and had already studied about computers in school till now. It was an amazing class and I look forward to dive deeper in the subject.
+
 
 
