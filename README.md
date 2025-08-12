@@ -1,4 +1,4 @@
-# Induction-Programme-
+<img width="1545" height="2000" alt="CAUSMIC CLUB" src="https://github.com/user-attachments/assets/4be207da-1468-47f2-84cb-dd266ce9af3b" /># Induction-Programme-
 Parminder Singh 
 
 Father's Name - S. Amarjit Singh
@@ -119,7 +119,7 @@ Finally regular classes have begun. But our seniors informed us that the inducti
 
 The first lecture was supposed to be of mathematics, but was shifted and changed into a P2P class. The seniors taught us the basics of designing on Canva and gave us a task to create a flyer for Athletic Meet. As I didn't bring my laptop, I made it on my phone. Here's what it looks like ->
 
-![WhatsApp Image 2025-08-11 at 09 36 00_b95ed020](https://github.com/user-attachments/assets/34be8f2e-f61d-4f54-951f-fd43cd509331)
+<img width="1545" height="2000" alt="CAUSMIC CLUB" src="https://github.com/user-attachments/assets/325d6666-c665-4433-8a2d-cea16d3f1b77" />
 
 Next we had our Physics lecture by Randhir Sir. He kick started our syllabus witH  _LASER_ chapter. He taught us the full form of the word LASER, its definition and how it is different from ordinary light. It was an engaging lecture, and sir's relatable jokes kept it entertaining as well.
 
