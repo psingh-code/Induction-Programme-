@@ -154,4 +154,4 @@ I bought the required stationery for EDG ( Engineering Drawing and Graphics) lec
 
 ![WhatsApp Image 2025-08-13 at 20 38 54_fa24901f](https://github.com/user-attachments/assets/5241bed6-22bc-4246-840c-63641b93685a)
 
-Once it was over, went straight to our graph papers and started on working. The 3 hours passed in the blink of an eye while working. I was able to complete the given work really early. Sir also taught us how to operate a drafter, which felt like a blessing, since now I don't have to use a ruler to draw _supposedly_ straight lines anymore. Once everybody was done, Sir let us go and we marched out.
+Once it was over, went straight to our graph papers and started working. The 3 hours passed in the blink of an eye while working. I was able to complete the given work really early. Sir also taught us how to operate a drafter, which felt like a blessing, since now I don't have to use a ruler to draw _supposedly_ straight lines anymore. Once everybody was done, Sir let us go and we marched out.
