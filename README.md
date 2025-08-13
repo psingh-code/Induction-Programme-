@@ -145,5 +145,13 @@ Randhir Sir taught us the concept of angle of divergence, how lasers are _genera
 
 We had our first PPS (Programming for Problem Solving) lecture in the Computational Lab of ECE department. Mrs. Maninder Kaur welcomed us, asked us our names, and gave us a rundown of what we had to study in this subject. We started with basic components of computer system. We were introduced to different units of a computer system, various input-output devices and their functions. Personally, it was a recap for me of what I know and had already studied about computers in school till now. It was an amazing class and I look forward to dive deeper in the subject.
 
+# Day - 10 :- 
+## 13 August, 2025
+Today was such a tiring yet exciting day. The very first two lectures were alloted to workshops. Since I was already working on a job in the fitting workshop, I just went and continued working on it. Afiter a lot more turmoil, I was able to fill out the gap between the set square and my piece. After that I coated its filed side with a marking paste and left it to dry. Once it was dryed, I used a Vernier Height Gauge to mark lines at 48mm by keeping my filed edge as a base, and used a hammer to strike down dots upon the line for better visibilty. Then kept on filing until the period ended. I also helped a batchmate with the earlier process and guided him as he was absent on the previous day. 
+After the workshop ended, I went to the designated room for physics lecture. But surprisingly, some other class was already going on there. After standing there for about 10 mins, we were escorted to the Physics Lab , where as soon as we came, were asked to go the another empty room on the same floor to continue the lecture. Finally after all this hustle and bustle, I sat down and focused on the lecture being presented. We went deeper into Planck's Quantum Theory and understood Einstein's contribution improved upon that.
 
+I bought the required stationery for EDG ( Engineering Drawing and Graphics) lecture during the recess and reached the alloted room on time. There Gulraj Sir again gave us a brief summary of Technical Writing.
 
+![WhatsApp Image 2025-08-13 at 20 35 05_28eadd68](https://github.com/user-attachments/assets/86de46d5-eb2e-40dd-a1dc-96d235f4a446)
+
+Once it was over, went straight to our graph papers and started on working. The 3 hours passed in the blink of an eye while working. I was able to complete the given work really early. Sir also taught us how to operate a drafter, which felt like a blessing, since now I don't have to use a ruler to draw _supposedly_ straight lines anymore. Once everybody was done, Sir let us go and we marched out.
