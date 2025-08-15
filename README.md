@@ -156,7 +156,7 @@ I bought the required stationery for EDG ( Engineering Drawing and Graphics) lec
 
 Once it was over, went straight to our graph papers and started working. The 3 hours passed in the blink of an eye while working. I was able to complete the given work really early. Sir also taught us how to operate a drafter, which felt like a blessing, since now I don't have to use a ruler to draw _supposedly_ straight lines anymore. Once everybody was done, Sir let us go and we marched out.
 
-# Day - 11 :-
+# Day - 11 :- HEAVY DOWNPOUR, MATHS (x2), PPS AND PHYSICS 
 ## 14 August, 2025
 Today was also a very rainy day. Might even be the day with the heaviest rainfall till now. I barely managed to reach the college in such a downpour and due to the chaos that erupts on the roads due to rain, I was 15 minutes late.
 
