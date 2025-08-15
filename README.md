@@ -127,7 +127,7 @@ After it, we had our first Engineering Drawing and Graphics lecture in the room 
 
 We also had workshops assigned to us in the time table. So once the break ended, I went straight to the Fitting Workshop, where we did a whole lot of work today. First, we identified and picked a material, measured it up, marked scratches at 50mm, fixed it up in the vice and kept on grinding the axe. Since I had no partner, it was tiring for me , but I stil enjoyed it. After that, all of us took our cut pieces, took filers then again went to grinding on and on to remove every trace of rust and make it stand upright on one of its thinner side which was a very HARD task. I barely managed to do it, but still it wasn't perfect. By the time I completed, 2 hours had passed, so we returned all the tools and went home.
 
-# Day - 9 :-
+# Day - 9 :- ID CARD FORMATION, PHYSICS LAB AND PPS INTRODUCTION
 ## 12 August, 2025
 Today was quite a rainy day. I reached the college during the heaviest downpour of the day.
 
@@ -155,3 +155,26 @@ I bought the required stationery for EDG ( Engineering Drawing and Graphics) lec
 ![WhatsApp Image 2025-08-13 at 20 38 54_fa24901f](https://github.com/user-attachments/assets/5241bed6-22bc-4246-840c-63641b93685a)
 
 Once it was over, went straight to our graph papers and started working. The 3 hours passed in the blink of an eye while working. I was able to complete the given work really early. Sir also taught us how to operate a drafter, which felt like a blessing, since now I don't have to use a ruler to draw _supposedly_ straight lines anymore. Once everybody was done, Sir let us go and we marched out.
+
+# Day - 11 :-
+## 14 August, 2025
+Today was also a very rainy day. Might even be the day with the heaviest rainfall till now. I barely managed to reach the college in such a downpour and due to the chaos that erupts on the roads due to rain, I was 15 minutes late.
+
+![WhatsApp Image 2025-08-15 at 11 57 57_ee12d47e](https://github.com/user-attachments/assets/0ac55ccb-187b-4d34-b051-ee0957926d8b)
+
+First lecture was a mathematics tutorial lecture, where D.S. Pathania sir introduced us to the syllabus we were going to cover in the first semester, and the books we will need for the same. 
+
+The next two hours were designated to PPS. We proceeded with the syllabus and covered different types of memory units, and the differences between them. We read about peripherals too, and how various peripherals perform various functions.
+
+After that we had another mathematics lecture, but this was a proper LECTURE. Mr Neeraj started with _Limits and Continuity_ but with more than one independent variables. He also gave us a brief idea of how the marking scheme works in mathematics. While the lecture was going on, he quite literally _dropped a bomb_ by mentioning that our MSTs were going to commence from the 15 of the next month. The chaos that ensued was expected. How will we even complete the syllabus till then? Although he asked us just to revise what he teaches us and not to worry about the syllabus, its really hard not to. 
+
+During the break I submitted my application forms for both IETE and NSS and then went to the canteen for Lunch.
+
+Then followed our first Economics lecture by Sanjam Kaur mam, since the last one was cancelled due to ID Card formation during the same time slot. She gave us the basic 4 definitions of Economics by 4 different Economists and spoke upon the importance of having the basic grasp of Economics for an Engineer. She explained basic terms like consumption, production, public finance etc. and taught the difference between Micro and Macro Economics. She further classified Economics into Positive and Normative and explained both of them clearly.
+
+The last lecture was a physics one, where we worked upon gradient and did some basic numericals which we were going to use repeatedly while studying the upcoming chapters.
+
+Rain had started again, and I was forced to get my feet wet to reach home. The 1 km long traffic jam in front of the college to my house didn't help either.
+
+
+
