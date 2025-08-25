@@ -176,5 +176,15 @@ The last lecture was a physics one, where we worked upon gradient and did some b
 
 Rain had started again, and I was forced to get my feet wet to reach home. The 1 km long traffic jam in front of the college to my house didn't help either.
 
+# DAY - 12 :- LASER RELATIONS, EDG LESSONS AND WORKSHOP
+## 18 August, 2025
+The day began with a physics lecture, where we learnt about different equations pertaining with laser, and got to know about various Einstein Coefficients for each case. We also studied the relations between those coefficients.
+
+I went straight to S-203 room after the physics lecture for my EDG one. Gulraj sir went ahead with geometrical shapes, how to draw them and how important they are for the upcoming topics. While completing my homework, I had encountered various problems while using the drafter. So me and my friends asked Sir to show us the correct method for an errorless drawing, which he glady demonstrated. We did get a lot of homework today too.
+
+The next 3 hours were affixed for workshop. I kept working on my job. I kept filing until it became a square with 48mm side length each. I was the first one in my workshop to complete it, after which I left.
+
+# DAY - 13 :- 
+## 19 August, 2025
 
 
